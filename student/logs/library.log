@@ -1,0 +1,16 @@
+2026-10-16T11:28:12.766+05:30  INFO 16164 --- [student] [main] com.kiet.student.StudentApplication      : Starting StudentApplication using Java 25 with PID 16164 (/home/utkarsh/Documents/student/java-spring/student/target/classes started by utkarsh in /home/utkarsh/Documents/student/java-spring/student)
+2026-10-16T11:28:12.771+05:30  INFO 16164 --- [student] [main] com.kiet.student.StudentApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-10-16T11:28:14.192+05:30  INFO 16164 --- [student] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-10-16T11:28:14.219+05:30  INFO 16164 --- [student] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-16T11:28:14.220+05:30  INFO 16164 --- [student] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-16T11:28:14.279+05:30  INFO 16164 --- [student] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1415 ms
+2026-10-16T11:28:14.880+05:30  INFO 16164 --- [student] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-10-16T11:28:14.893+05:30  INFO 16164 --- [student] [main] com.kiet.student.StudentApplication      : Started StudentApplication in 2.917 seconds (process running for 3.562)
+2026-10-16T11:28:14.900+05:30  INFO 16164 --- [student] [main] com.kiet.student.StudentApplication      : KIET Student Management System Started
+2026-10-16T11:28:14.901+05:30  INFO 16164 --- [student] [main] com.kiet.student.StudentApplication      : Loading Student Data...
+2026-10-16T11:28:14.902+05:30  INFO 16164 --- [student] [main] com.kiet.student.StudentApplication      : Student Management REST API is Ready
+2026-10-16T11:29:47.724+05:30  INFO 16164 --- [student] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-10-16T11:29:47.725+05:30  INFO 16164 --- [student] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-10-16T11:29:47.727+05:30  INFO 16164 --- [student] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2026-10-16T11:37:45.024+05:30  INFO 16164 --- [student] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-16T11:37:45.041+05:30  INFO 16164 --- [student] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
